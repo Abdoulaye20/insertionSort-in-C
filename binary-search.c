@@ -28,7 +28,7 @@ int main()
             }
         }
     }
-
+// for printing elements
    printf("The output array is:\n");
    for(i=0; i<n; i++){
     printf("%d\n",A[i]);
